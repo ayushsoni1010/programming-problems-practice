@@ -1,4 +1,4 @@
-// substract of Two numbers
+// Substract of Two numbers
 
 #include <iostream>
 using namespace std;

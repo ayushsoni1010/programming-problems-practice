@@ -1,4 +1,4 @@
-// substract of Two numbers
+// Substract of Two numbers
 
 #include <stdio.h>
 int main(){
