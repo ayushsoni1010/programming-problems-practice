@@ -1,4 +1,4 @@
-# substract of Two numbers
+# Substract of Two numbers
 
 # let num1 and num2 
 # Take input from user

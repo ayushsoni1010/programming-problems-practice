@@ -1,4 +1,4 @@
-// product of Two numbers
+// Product of Two numbers
 
 #include <stdio.h>
 int main(){
