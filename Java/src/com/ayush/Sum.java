@@ -1,8 +1,4 @@
-// Sum of Two numbers
-
-package Java;
-
-// package com.ayush;
+package com.ayush;
 
 import java.util.Scanner;
 
